@@ -81,7 +81,7 @@ Every `agent` needs a script inherited from the `Agent` class. Following are som
 
 	Use `actionsOut[i]` to define manual controls during `Heuristic Only` behaviour.
 
-Attach this script to the agent along with `BehaviourParameters` and `DecesionRequester` scripts inbuilt with the ML-Agents Unity Package (just search their names in `Add Component` dropdown menu of the agent gameobject).
+Attach this script to the agent along with `BehaviourParameters` and `DecisionRequester` scripts inbuilt with the ML-Agents Unity Package (just search their names in `Add Component` dropdown menu of the agent gameobject).
 
 ### Debugging
 
