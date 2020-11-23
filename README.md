@@ -157,3 +157,17 @@ After defining your logic, test the functionality by selecting `Heuristic Only` 
 
 ## DEMO
 Implementation demonstrations are available on [YouTube](https://www.youtube.com/playlist?list=PLY45pkzWzH99W7CHUu-HmYQSf_QopfuJB).
+
+## CITATION
+Please cite the [following paper](https://arxiv.org/abs/2011.05605) when using the MARL Simulator for your research:
+
+```bibtex
+@article{MARL2020,
+      title={Decentralized Motion Planning for Multi-Robot Navigation using Deep Reinforcement Learning}, 
+      author={Sivanathan Kandhasamy and Vinayagam Babu Kuppusamy and Tanmay Vilas Samak and Chinmay Vilas Samak},
+      year={2020},
+      eprint={2011.05605},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
+```
