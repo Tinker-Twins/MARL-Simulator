@@ -171,3 +171,4 @@ Please cite the [following paper](https://arxiv.org/abs/2011.05605) when using t
       primaryClass={cs.RO}
 }
 ```
+This work has been published in 2020 International Conference on Intelligent Sustainable Systems (ICISS). The publication can be found on [IEEE Xplore](https://ieeexplore.ieee.org/document/9316033).
