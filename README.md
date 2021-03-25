@@ -1,7 +1,9 @@
 # MARL Simulator
 ### A Simulation System for Implementing and Testing Multi-Agent Reinforcement Learning Algorithms
 
-![Title Image](MARL.gif)
+<p align="center">
+<img src="https://github.com/Tinker-Twins/MARL-Simulator/blob/main/MARL.gif"><br>
+</p>
 
 ## SETUP
 
