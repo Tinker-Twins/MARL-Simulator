@@ -164,13 +164,14 @@ Implementation demonstrations are available on [YouTube](https://www.youtube.com
 Please cite the [following paper](https://arxiv.org/abs/2011.05605) when using the MARL Simulator for your research:
 
 ```bibtex
-@eprint{MARL-2020,
-      title={Decentralized Motion Planning for Multi-Robot Navigation using Deep Reinforcement Learning}, 
-      author={Sivanathan Kandhasamy and Vinayagam Babu Kuppusamy and Tanmay Vilas Samak and Chinmay Vilas Samak},
-      year={2020},
-      eprint={2011.05605},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
+@inproceedings{MARL-2020,
+author = {Sivanathan, K. and Vinayagam, B. K. and Samak, Tanmay and Samak, Chinmay},
+booktitle = {2020 3rd International Conference on Intelligent Sustainable Systems (ICISS)},
+title = {Decentralized Motion Planning for Multi-Robot Navigation using Deep Reinforcement Learning},
+year = {2020},
+pages = {709-716},
+doi = {10.1109/ICISS49785.2020.9316033},
+url = {https://doi.org/10.1109/ICISS49785.2020.9316033}
 }
 ```
 This work has been published in 2020 International Conference on Intelligent Sustainable Systems (ICISS). The publication can be found on [IEEE Xplore](https://ieeexplore.ieee.org/document/9316033).
