@@ -162,7 +162,6 @@ Implementation demonstrations are available on [YouTube](https://www.youtube.com
 
 ## CITATION
 Please cite the [following paper](https://arxiv.org/abs/2011.05605) when using the MARL Simulator for your research:
-
 ```bibtex
 @inproceedings{MARL-2020,
 author = {Sivanathan, K. and Vinayagam, B. K. and Samak, Tanmay and Samak, Chinmay},
