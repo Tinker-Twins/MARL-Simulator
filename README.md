@@ -173,4 +173,4 @@ doi = {10.1109/ICISS49785.2020.9316033},
 url = {https://doi.org/10.1109/ICISS49785.2020.9316033}
 }
 ```
-This work has been published in 2020 International Conference on Intelligent Sustainable Systems (ICISS). The publication can be found on [IEEE Xplore](https://ieeexplore.ieee.org/document/9316033).
+This work has been published in **2020 International Conference on Intelligent Sustainable Systems (ICISS).** The publication can be found on [IEEE Xplore](https://ieeexplore.ieee.org/document/9316033).
